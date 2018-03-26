@@ -1,1 +1,9 @@
 # BootstrapPortfolio
+
+1. I erred from the beginning on this homework.  I began at the 980-width configuration rather than the full screen layout from Thursday's homework.  
+2. I tried to build from scratch using all bootstrap functions and utilities and had mixed results.  While I generally got the items in each of the three separate pages in the correct locations, I had poor results with regard to making them look like they were supposed to.  I had real problems trying to add styling to control sizes, colors, borders, etc.
+3. This incuded the footer, for instance.  I googled looking for a way to put a "sticky" footer into a bootstrap page and found a recommendation to use a navbar that sits on the bottom of the page, which I did, but then found it very difficult to impact the look of it.
+4. I really did not know the best way to go about adding the right hand side "connect with me" element.  I added a panel basically as a placeholder but did not try to place any icons into it.  I did not have a clue what the third logo is (I knew Github nd Linkedin).  I did briefly look around via google for logo but could not find it.
+5. The images used for the portfolio page rendered large on the screen but I did not find a good way to size them right.
+6. I was not happy with how any of the pages rendered but as I said I didn't have much luck in trying to add additional styling to clean it up.
+7. With regard to responsiveness in bootstrap, basically all I did was add -md, -sm, and -xs classes to all columns so that they would snap to a smaller size as the screen width diminishes.  This did not look particularly pretty or work smoothly so I am assuming there is a better way to implement that functionality.
